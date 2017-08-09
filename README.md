@@ -4,7 +4,5 @@
  
 countに代入する数値で処理回数を選択 ※ count = 0 // 処理１回  
 
-[count=0](count=0.png)  
-
 作成者 : crane  
 連絡先 : 75u2uuy4@gmail.com
